@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aWVGqMPJgI2K/SCB8PJYmeNUdz1mT51LX8liZd4vBVo=",
+  "Source": "SignalRClient",
+  "BasePath": "_content/SignalRClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
